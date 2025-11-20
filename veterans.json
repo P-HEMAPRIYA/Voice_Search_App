@@ -1,0 +1,22 @@
+{
+  "veterans": [
+    {
+      "id": "abhirami-b-mns",
+      "rank": "LT (Mrs.)",
+      "name": "Abhirami B",
+      "service": "MNS",
+      "address": "NO.129, 21ST STREET, KALPAKKAM, CHENNAI",
+      "phones": ["6590 7921", "9444239759", "9840592121"],
+      "emails": []
+    },
+    {
+      "id": "abraham-tk-kumaon",
+      "rank": "COL",
+      "name": "Abraham TK",
+      "service": "KUMAON",
+      "address": "ABCD NAGAR, CHENNAI",
+      "phones": ["9123456780"],
+      "emails": ["abraham@example.com"]
+    }
+  ]
+}
