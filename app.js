@@ -42,6 +42,11 @@ function renderList(arr) {
   });
 }
 
+// Helper function to normalize strings by removing spaces and converting to lowercase
+function normalizeString(str) {
+  return (str || "").toLowerCase().replace(/\s+/g, "");
+}
+
 function filterList(q = null) {
   if (!dataLoaded) {
     document.getElementById("list").innerHTML = "<li>Loading data...</li>";
@@ -65,24 +70,27 @@ function filterList(q = null) {
     // Parse ServiceType (first word) and name (remaining words)
     const serviceType = words[0];
     const nameParts = words.slice(1).join(" ");
+    const normalizedNameQuery = normalizeString(nameParts);
     
     filtered = veterans.filter(v => {
       const matchesServiceType = v.serviceType && 
         v.serviceType.toLowerCase().includes(serviceType);
+      // Compare names without spaces to handle "RAVISHANKAR" vs "Ravi Shankar"
       const matchesName = v.name && 
-        v.name.toLowerCase().includes(nameParts);
+        normalizeString(v.name).includes(normalizedNameQuery);
       
       return matchesServiceType && matchesName;
     });
   } else {
     // Fallback: search in all fields if only one word provided
+    const normalizedQuery = normalizeString(query);
     filtered = veterans.filter(v => {
-      const searchText = (
+      const searchText = normalizeString(
         (v.serviceType || "") + " " +
         (v.name || "") + " " +
         (v.address || "")
-      ).toLowerCase();
-      return searchText.includes(queryLower);
+      );
+      return searchText.includes(normalizedQuery);
     });
   }
   
