@@ -47,62 +47,8 @@ function normalizeString(str) {
   return (str || "").toLowerCase().replace(/\s+/g, "");
 }
 
-function filterList(q = null) {
-  if (!dataLoaded) {
-    document.getElementById("list").innerHTML = "<li>Loading data...</li>";
-    return;
-  }
   
-  const query = (q || document.getElementById("search").value).trim();
-  
-  if (!query) {
-    renderList(veterans);
-    return;
-  }
-  
-  const queryLower = query.toLowerCase();
-  const words = queryLower.split(/\s+/);
-  
-  // First word should be ServiceType, rest should be name
-  let filtered;
-  
-  if (words.length >= 2) {
-    // Parse ServiceType (first word) and name (remaining words)
-    const serviceType = words[0];
-    const nameParts = words.slice(1);
-    
-    filtered = veterans.filter(v => {
-      const matchesServiceType = v.serviceType && 
-        v.serviceType.toLowerCase().includes(serviceType);
-      
-      if (!matchesServiceType) return false;
-      
-      // Normalize the veteran's name for comparison
-      const normalizedVeteranName = normalizeString(v.name);
-      
-      // Check if ALL name parts are present in the veteran's name
-      // This handles both "Ravi Shankar" -> "RAVISHANKAR" and partial matches
-      const allPartsMatch = nameParts.every(part => 
-        normalizedVeteranName.includes(normalizeString(part))
-      );
-      
-      return allPartsMatch;
-    });
-  } else {
-    // Fallback: search in all fields if only one word provided
-    const normalizedQuery = normalizeString(query);
-    filtered = veterans.filter(v => {
-      const searchText = normalizeString(
-        (v.serviceType || "") + " " +
-        (v.name || "") + " " +
-        (v.address || "")
-      );
-      return searchText.includes(normalizedQuery);
-    });
-  }
-  
-  renderList(filtered);
-}
+
 function startVoice() {
   if (!dataLoaded) {
     alert("Please wait for data to load...");
