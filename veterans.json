@@ -1,277 +1,116 @@
 {
   "veterans": [
+    
     {
-      "rank": "LT (Mrs.)",
-      "name": "Abhirami B MNS CAPT ALEXANDER BRUNO 11GR 2229 1230",
+      "rank": "COL",
+      "name": "COL ABRAHAM TK",
       "service": "",
       "serviceType": "Army",
-      "address": "NO.129, 21ST STREET, KALPAKKAM,  6(OLD 5), SWAMINATHA IYER STREET, CHENNAI MES ROAD, GANAPATHI PURAM, EAST TAMBARAM, CHENNAI 600 059",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "COL ABRAHAM TK KUMAON",
-      "name": "6590 7921",
-      "service": "",
-      "serviceType": "Army",
-      "address": "B5B CEEDEEYES, REGAL PALM GARDENS   LT.COL.ALEXANDER, V, VSM,   ARTY VELACHERRY, CHENNAI 600   8, DEFENCE OFFICERS COLONY,  98401 22823 EKATUTHANGAL, CHENNAI 600   3704(O)",
+      "address": "B5B CEEDEEYES, REGAL PALM GARDENS, VELACHERRY, CHENNAI 600016",
       "phones": [
+        "6590 7921",
         "9444239759",
-        "22344447",
-        "0169840592121",
-        "0322841"
+        "9840592121"
       ],
       "emails": [
-        "abraham_kumaon@gmail.com",
-        "sulualex@yahoo.co.in"
+        "abraham_kumaon@gmail.com"
       ]
     },
     {
-      "rank": "LT.COL ACHARI SS (LATE) EME",
-      "name": "2365 2534",
+      "rank": "LT.COL",
+      "name": " ACHARI SS (LATE) EME",
       "service": "",
       "serviceType": "Army",
-      "address": "MRS. SHYAMALA 98411 02674 LT COL ALEXANDER AO, (LATE)  MADRAS A-2/18, AWHO COLONY,  MRS LALITHA PARAMESWARAN VIHAR, 67(OLD 28),  6-A, CAMBRAE EAST, VICTORIA CRESENT, ARCOT ROAD, SALIGRAMAM,  EGMORE, CHENNAI 600 008 CHENNAI 600 093",
+      "address": "A-2/18, AWHO COLONY, PARAMESWARAN VIHAR, 67(OLD 28), ARCOT ROAD, SALIGRAMAM, CHENNAI 600 093",
       "phones": [
-        "28272746"
+        "2365 2534",
+        "98411 02674"
       ],
-      "emails": []
+      "emails": ["shyamala_achari@yahoo.com"]
     },
     {
-      "rank": "COL ALI MB (LATE) SHAMS ALI AMC",
-      "name": "",
+      "rank": "COL",
+      "name": "COL ALI MB (LATE) SHAMS ALI AMC",
       "service": "",
       "serviceType": "Army",
-      "address": "T/56 B ELLIOTS BEACH ROAD, 6TH AVENUE,",
+      "address": "T/56 B ELLIOTS BEACH ROAD, 6TH AVENUE, BESANT NAGAR, CHENNAI 600 090",
       "phones": [
         "9841498676"
       ],
-      "emails": [
-        "shyamala_achari@yahoo.com"
-      ]
+      "emails": [ ]
     },
     {
-      "rank": "COL ACHUTHAN P (LATE) SIGS",
-      "name": "42136315 BESANT NAGAR CHENNAI 600 090",
+      "rank": "COL",
+      "name": "COL ACHUTHAN P (LATE) SIGS",
       "service": "",
       "serviceType": "Army",
-      "address": "MRS SUBADHRA",
+      "address": "A58, ARCOT TERRACE, 150 N.S.K SALAI ARCOT ROAD,VADAPALANI, CHENNAI 600 026c",
       "phones": [
+        "42136315",
         "9962233300"
       ],
-      "emails": []
+      "emails": ["madhavan@skynsea.in"]
     },
     {
-      "rank": "CAPT ALI NA AMEER",
-      "name": "2372 0215",
+      "rank": "CAPT",
+      "name": "CAPT ALI NA AMEER",
       "service": "",
       "serviceType": "Army",
-      "address": "A58, ARCOT TERRACE, 99/44, 6TH CROSS STREET, TRUST PURAM, 150 N.S.K SALAI  ARCOT ROAD, KODAMBAKKAM, VADAPALANI, CHENNAI 600 026 CHENNAI 600 024",
-      "phones": [],
+      "address": "99/44, 6TH CROSS STREET, TRUST PURAM",
+      "phones": ["2372 0215"],
       "emails": [
         "madhavan@skynsea.in"
       ]
     },
     {
-      "rank": "LT COL ALEY KT MNS",
-      "name": "8939615200",
+      "rank": "LT COL",
+      "name": "LT COL ALEY KT MNS",
       "service": "",
       "serviceType": "Army",
-      "address": "",
+      "address": "16 GOKUL NAGAR, 2 ND STREET,RAJAKILPAUK, CHENNAI-600073",
+      "phones": ["8939615200"],
+      "emails": ["aleykt05@gmail.com"]
+    },
+    {
+      "rank": "LT COL",
+      "name": "LT COL ACHUTHAN SUKUMARAN(LATE) AOC",
+      "service": "",
+      "serviceType": "Army",
+      "address": "A-1, OLD.NO 40, NEW NO.33, SABARI APTS,10TH AVE, ASHOK NAGAR, CHENNAI 600 083",
+      "phones": ["2489 0636"],
+      "emails": []
+    },
+    {
+      "rank": "CAPT",
+      "name": "CAPT ALLEN CLARKE",
+      "service": "",
+      "serviceType": "Army",
+      "address": "B-2/10 SERENE APARTMENTS, VINAYAKA NAGAR, THURAIPAKKAM, CHENNAI – 600097",
       "phones": [],
       "emails": []
     },
     {
-      "rank": "LT COL ACHUTHAN SUKUMARAN(LATE) AOC",
-      "name": "2489 0636",
-      "service": "",
-      "serviceType": "Army",
-      "address": "16 GOKUL NAGAR, 2 ND STREET, MRS MADHURAM  SAIMONEY RAJAKILPAUK, CHENNAI-600073 A-1, OLD.NO 40, NEW NO.33, SABARI APTS, 10TH AVE, ASHOK NAGAR, CHENNAI 600 083",
-      "phones": [],
-      "emails": [
-        "aleykt05@gmail.com"
-      ]
-    },
-    {
-      "rank": "CAPT ALLEN CLARKE",
-      "name": "",
-      "service": "",
-      "serviceType": "Army",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "LT COL (MS) AGNES ANTHONY MARY MNS",
-      "name": "2472 2791",
-      "service": "",
-      "serviceType": "Army",
-      "address": "B-2/10 SERENE APARTMENTS 51, LAMBERT NAGAR, 3RD STREET, VINAYAKA NAGAR, THURAIPAKKAM, VIRUGAMBAKKAM, CHENNAI 600 087 CHENNAI \u2013 600097",
-      "phones": [
-        "23660568"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "CAPT. AHAMED MD (LATE) AMC",
-      "name": "2494 0929",
-      "service": "",
-      "serviceType": "Army",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "COL AMAL RAJ AV",
-      "name": "22293926",
-      "service": "",
-      "serviceType": "Army",
-      "address": "DR(MRS) FATIMA PLOT 21, JOTHI VENKATACHLAM NAGAR, 82, KUTCHERI ROAD, MYLAPORE, MADAMBAKKAM, SELAIYUR, CHENNAI  600 004 CHENNAI 600 073",
-      "phones": [
-        "28511015",
-        "25675337",
-        "9840530372"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "LT COL AHAMED NAWAZ",
-      "name": "2247 3873 aamalraj@yahoo.com",
-      "service": "",
-      "serviceType": "Army",
-      "address": "9 BALAIAH NAGAR, MADIPAKKAM,",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "CAPT.(MRS) AMBICA RAVEENDRAN MNS",
-      "name": "2685 0112",
-      "service": "",
-      "serviceType": "Army",
-      "address": "CHENNAI 600 091 21/5, MOHAN NILAYAM,",
-      "phones": [
-        "9841788031"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "LT COL AJIT MENON B (LATE)",
-      "name": "99406 55132 NORTH BAZAR STREET PATTABIRAM",
-      "service": "",
-      "serviceType": "Army",
-      "address": "FLAT 7, PEARL NEST APTS.,  CHENNAI 600 072 12 RAMANATHAN STREET,",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "LT COL AMBROSE AJ ARTY",
-      "name": "2237 5313",
-      "service": "",
-      "serviceType": "Army",
-      "address": "KILPAUK, CHENNAI 600 010 49, RANGA COLONY, RAJAKILPAKKAM,",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "LT COL (MRS.) ALAGAPPA BABY JANE MNS",
-      "name": "2226 5661 CHENNAI 600 073",
-      "service": "",
-      "serviceType": "Army",
-      "address": "124/14, KRISHNA NAGAR, 2ND STREET,",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "LT COL AMRIT RAJ A ARTY",
-      "name": "2645 3159",
-      "service": "",
-      "serviceType": "Army",
-      "address": "MUDICHUR ROAD, TAMBARAM WEST, NO - 1, MAC SUNNY SIDE, CHENNAI 600 045 5/2 DR ALAGAPPA ROAD,",
-      "phones": [
-        "9940132276"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "COL ALEXANDER AJ AOC",
-      "name": "9445754919 PURUSAWALKAM CHENNAI-600084",
-      "service": "",
-      "serviceType": "Army",
-      "address": "38/2/C, 2ND STREET, ANNA COMPLEX, MUTHAPUDUPET,",
-      "phones": [
-        "9444273994"
-      ],
-      "emails": [
-        "colonelraj@yahoo.com"
-      ]
-    },
-    {
-      "rank": "CAPT AMSU P 8GR",
-      "name": "2573 3560",
-      "service": "",
-      "serviceType": "Army",
-      "address": "IAF POST, AVADI, CHENNAI-600055 16B, 4TH CROSS ROAD, R K NAGAR, CHENNAI 600 057",
-      "phones": [
-        "25734731"
-      ],
-      "emails": [
-        "jerome_alex_58@yahoo.co.in"
-      ]
-    },
-    {
-      "rank": "SURG CDR ABRAHAM A VSM",
-      "name": "28283232 LT CDR BALAJI GK 2486 6518",
+      "rank": "SURG CDR",
+      "name": "ABRAHAM A VSM",
       "service": "",
       "serviceType": "Navy",
       "address": "4H COURTYARD, 27 PYCROFTS GARDEN RD,    FLAT NO G-1, SRIDEVI APTS, DR. R.K. SALAI,  98416 11653 NUNGAMBAKKAM, CHENNAI - 600006 FATHIMA NAGAR, VALASARAVAKKAM, CHENNAI 600 087.",
       "phones": [
-        "9962519359"
+        "9962519359",
+        "28283232"
       ],
       "emails": [
-        "dr.aabraham@yahoo.com",
-        "balajicso@yahoo.co.in"
-      ]
+        "dr.aabraham@yahoo.com"]
     },
     {
-      "rank": "LT CDR ABRAHAM JACOB",
-      "name": "26210140",
+      "rank": "CDR",
+      "name": "CDR AJITH KUMAR KC",
       "service": "",
       "serviceType": "Navy",
-      "address": "3A, SHALOM CASSIA, R90 3RD MAINROAD,    CDR BALAKRISHNAN, GR, ANNA NAGAR, CHENNAI 600 040. A1 RAO VILLA, 14 NEW GIRI ROAD, T NAGAR, CHENNAI - 600017",
-      "phones": [
-        "9840038104",
-        "28340674",
-        "9176948282"
-      ],
-      "emails": [
-        "jacobab_2000@yahoo.co.uk",
-        "balakry@gmail.com"
-      ]
-    },
-    {
-      "rank": "CDR ADITYA DK (LATE)",
-      "name": "2626 2563",
-      "service": "",
-      "serviceType": "Navy",
-      "address": "MRS BANI 93808 92914 CAPT (IN) BALAKRISHNAN, H, B 33/3, SOWBHAGYA APTS, II AVENUE,  \u201cATHREYA\u201d, A1/8 FLAT 5, 22ND CROS STREET,    O ANNA NAGAR EAST, CHENNAI 600 102 BESANT NAGAR, CHENNAI 600 090",
-      "phones": [
-        "24910140",
-        "24912948"
-      ],
-      "emails": [
-        "bhbalakrishnan47@gmail.com"
-      ]
-    },
-    {
-      "rank": "CDR AJITH KUMAR KC",
-      "name": "2817 3396",
-      "service": "",
-      "serviceType": "Navy",
-      "address": "FLAT 8, \u201dDWARAKA\u201d, 22/42, KAMDAR NAGAR,    CDR BALAKRISHNAN, S, NUNGAMBAKKAM, CHENNAI 600 034 A1505, RADIANCE MANDARIN, PALLAVARAM THURAIPAKKAM 200FT ROAD, THURAIPAKKAM, CHENNAI 600097",
+      "address": "FLAT 8, ”DWARAKA”, 22/42, KAMDAR NAGAR, NUNGAMBAKKAM, CHENNAI 600 034",
       "phones": [
         "9444993396",
-        "49586935",
-        "9381737800"
+        "2817 3396"
       ],
       "emails": [
         "8dwaraka@gmail.com",
@@ -279,319 +118,84 @@
       ]
     },
     {
-      "rank": "captbala737@gmail.com",
-      "name": "",
+      "rank": "LT",
+      "name": "LT ALANKRIT V ARORA",
       "service": "",
       "serviceType": "Navy",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "LT ALANKRIT V ARORA IN",
-      "name": "99529 44454",
-      "service": "",
-      "serviceType": "Navy",
-      "address": "VILLA NO.15, PHASE 2 EGRET PARK,  CAPT (IN) BALASUBRAMANIAN, RE,    R THORAIPAKKA, CHENNAI 600 097 \u201cSRI GANESH KRUPA\u201d,  98400 68719 PLOT NO. 99, 2ND AVENUE, VGP GOLDEN BEACH, UTHANDI,",
+      "address": "VILLA NO.15, PHASE 2 EGRET PARK,THORAIPAKKAM, CHENNAI 600 097",
       "phones": [
-        "24530228"
+        "99529 44454"
       ],
       "emails": [
         "cbo@aischennai.org"
       ]
     },
+    
     {
-      "rank": "CDR ALAVANDAR R",
-      "name": "2229 4343",
+      "rank": "CMDE",
+      "name": "CMDE ASHOKAN R",
       "service": "",
       "serviceType": "Navy",
-      "address": "CHENNAI - 600 116 PLOT NO.122, 3RD MAIN ROAD, BHUVANESHWARI NAGAR, MADAMBAKKAM, CHENNAI-600126 LT (IN) CHARLES, YKP, VSM, (LATE) MRS.MARAGATHAM, 79 (OLD 39A), BHARAT NAGAR MAIN ROAD,",
+      "address": "D01 CASA GRANDE ALDEA, BHARATIYAR MAIN ROAD, THORAIPAKKAM, CHENNAI - 600097",
       "phones": [
-        "9444960289",
-        "22415886"
+        "4202 1262",
+        "9940191543"
       ],
       "emails": [
-        "rebalas@gmail.com",
-        "ramamoorthyalavandar@yahoo.com"
+        "asokanras@yahoo.co.in"
       ]
     },
     {
-      "rank": "CDR ARASU ST",
-      "name": "2230 1600",
-      "service": "",
-      "serviceType": "Navy",
-      "address": "ZAMIN PALLAVARAM, CHENAI 600 043 4E, SRIVATSA GARDENS, 9, SOUTH AVENUE,  94440 81600 SRINAGAR COLONY, SAIDAPET,  LT CDR CHAUHAN, SK, CHENNAI 600 015 FLAT A 066, DLF COMMANDER\u2019S COURT",
-      "phones": [
-        "9884976750",
-        "49567222"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "captarasu@yahoo.co.in",
-      "name": "49 ETHICAL SALAI",
-      "service": "EGMORE",
-      "serviceType": "Navy",
-      "address": "CHENNAI - 600008",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "CDR AROCKIOYASWAMY C",
-      "name": "2656 3920",
-      "service": "",
-      "serviceType": "Navy",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "captskc@gmail.com",
-      "name": "",
-      "service": "",
-      "serviceType": "Navy",
-      "address": "41/27, EVEREST COLONY,  99419 19281 PARI SALAI, MOGAPPAIR EAST,  CDR CHELVAN, ST, CHENNAI 600 037 S-5, MAHALAKSHMI FLATS,  94444 53871 28, GIRI STREET, WEST MAMBALAM,",
-      "phones": [
-        "23711823"
-      ],
-      "emails": [
-        "samalexec@yahoo.co.in"
-      ]
-    },
-    {
-      "rank": "CMDE ASHOK NATARAJAN",
-      "name": "9871242347",
-      "service": "",
-      "serviceType": "Navy",
-      "address": "CHENNAI 600 033 43, JAL VAYU VIHAR, MADAMBAKKAM,  CAPT (IN) CHRISTIE CHENNAI 600 126 KJ HILROY B-15 THE PALMS CEEBROS NO-6 POLICE COMMISSIONAR OFFICE ROAD",
-      "phones": [
-        "9677176580",
-        "42638412"
-      ],
-      "emails": [
-        "ashoknatarajan57@gmail.com"
-      ]
-    },
-    {
-      "rank": "CMDE ASHOKAN R",
-      "name": "4202 1262",
-      "service": "",
-      "serviceType": "Navy",
-      "address": "EGMORE, CHENNAI-600008 D01 CASA GRANDE ALDEA, BHARATIYAR MAIN ROAD, THORAIPAKKAM, CHENNAI - 600097 CDR DANIEL, EJ 22 JAL VAYU VIHAR, MADAMBAKKAM, CHENNAI - 600126",
-      "phones": [
-        "9940191543",
-        "22294348",
-        "9790795366"
-      ],
-      "emails": [
-        "kjh.christie@gmail.com",
-        "asokanras@yahoo.co.in",
-        "daniel9790795366@gmail.com"
-      ]
-    },
-    {
-      "rank": "FLT LT ABDUL KAREEM MY",
-      "name": "2855 1583 WG CDR ARULANANDAM P 2498 7119",
+      "rank": "FLT LT",
+      "name": "ABDUL KAREEM MY",
       "service": "",
       "serviceType": "Airforce",
-      "address": "50/2, SECOND LANE, DR. NATESAN ROAD,    5, PRITHVI AVENUE, 2ND STREET, ICE HOUSE, TRIPLICANE, CHENNAI - 600 005. ABHIRAMAPURAM, CHENNAI 600 018.",
+      "address": "50/2, SECOND LANE, DR. NATESAN ROAD, ICE HOUSE, TRIPLICANE, CHENNAI - 600 005.",
       "phones": [
-        "28472197"
+        "2855 1583",
+        "2847 2197"
       ],
       "emails": []
     },
     {
       "rank": "AIR CMDE ACHUTHAN MG",
-      "name": "4201 9562",
+      "name": "ACHUTHAN MG",
       "service": "",
       "serviceType": "Airforce",
-      "address": "OLD NO. 3, NEW NO. 5, DHANLAKSHMI AVENUE, 1ST FLOOR,    WG CDR ARUN NAIR KASTURBANAGAR, 3RD CROSS STREET  FLAT NO.204, TOWER NO.05, SKY CITY ADAYAR, CHENNAI 600 020 VANAGHARAM, CHENNAI 600095",
+      "address": "OLD NO. 3, NEW NO. 5, DHANLAKSHMI AVENUE, 1ST FLOOR, KASTURBANAGAR, 3RD CROSS STREET  ADAYAR, CHENNAI 600 020",
       "phones": [
-        "42131332",
-        "9840147579",
-        "9760039411"
+        "4201 9562",
+        "4213 1332",
+        "9840147579"
+      ],
+      "emails": []
+    },
+    {
+      "rank": "WG CDR",
+      "name": " RAVISHANKAR, C",
+      "service": "",
+      "serviceType": "Airforce",
+      "address": "A-1, ASHOK GANAPATHIM 49, 4TH MAIN ROAD, R A PURAM, CHENNAI 600 028",
+      "phones": [
+        "2434 3392",
+        "99401 13572"
       ],
       "emails": [
-        "chandraarul@yahoo.com",
-        "arunnair71@yahoo.com"
+        "c.ravishankar@gmail.com"
       ]
     },
+    
     {
-      "rank": "WG CDR ALDRIN HARRINGSTON",
-      "name": "9409307384",
+      "rank": "WG CDR",
+      "name": "BALACHANDRAN R",
       "service": "",
       "serviceType": "Airforce",
-      "address": "F-4, MM TOWERS, PLOT T NO.10&11,  WG CDR ARUN KUMAR, AN IAF ROAD, SELAIYUR, CHENNAI 600073. 46(OLD 55/2), BURKIT ROAD, T NAGAR, CHENNAI 600 017",
+      "address": "NEW NO.6 (OLD 71), 3RD MAIN ROAD, GANDHI NAGAR, ADYAR, CHENNAI 600 020.",
       "phones": [
-        "24982428"
+        "2490 1922",
+        "98410 48839"
       ],
       "emails": [
-        "aldrin14082007@gmail.com"
-      ]
-    },
-    {
-      "rank": "AIR CMDE AMIRTHALINGAM MN (LATE)",
-      "name": "2446 4467 GP CAPT ARUNACHALAM JR 8056194636",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "AVSM, VM(GAL) 62, JAL VAYU VIHAR, MADAMBAKKAM MRS SAROJINI SELAIYUR CHENNAI 600 073 PLOT NO.3, PREM FLATS, 21(OLD 12/3),",
-      "phones": [
-        "22291000"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "GP CAPT ASHOK VS",
-      "name": "8754577459",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "RUKMINI ROAD, KALAKSHETRA COLONY, 720, CEE BROS, BOUZEVARD, 3/381, OHR BESANT NAGAR, CHENNAI 600 090. THURAIPAKKAM, CHENNAI 600 097.",
-      "phones": [],
-      "emails": [
-        "sarweswar@hotmail.com",
-        "kalashok@gmail.com"
-      ]
-    },
-    {
-      "rank": "SQN LDR ANANDAN J",
-      "name": "2224 0103",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "SQN LDR ASIT KUMAR CHANDA",
-      "name": "22290361",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "FLAT GF3, BLOCK 1A, VASANTH APTS,  98844 41535 20, JAL-VAYU VIHAR, SELAIYUR, MUVARASAMPET MAIN ROAD, MADIPAKKAM, CHENNAI 600 073 CHENNAI 600 091",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "WG CDR AUDISESHU GK",
-      "name": "2376 1680",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "SQN LDR APPUSAMY T",
-      "name": "9790988201",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "130 G2, BHASKAR COLONY 2ND STREET,  98407 81038 A-4, ISHA SABARI HOME, 1, SARATHY NAGAR VIRUGAMBAKKAM, CHENNAI 600 092 2ND STREET, VELLACHERY, CHENNAI 600042",
-      "phones": [],
-      "emails": [
-        "audiganjam@gmail.com"
-      ]
-    },
-    {
-      "rank": "WG CDR ARIVAZHAGAN M",
-      "name": "9840055119",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "SQN LDR AUGUSTINE BSM",
-      "name": "2227 5909",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "PLOT 64, DOOR NO 17, GANESH NAGAR 135, MARUTHI NAGAR,  98843 57988 SELAIYUR, TAMBARAM EAST, MADAMBAKKAM HIGH ROAD, CHENNAI 600 073 SELAIYUR, CHENNAI 600 073",
-      "phones": [
-        "22274518"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "SQN LDR ARJUNA LG",
-      "name": "9840014553",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "WG CDR AYUB KHAN",
-      "name": "28329490",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "25/4A, SEKAR PLAZA, UI COLONY, B-21, BROWN STONE APTS. 1ST MAIN ROAD, MAHALINGAPURAM, CHENNAI 600034 KODAMBAKKAM, CHENNAI 600 024.",
-      "phones": [
-        "9962222254"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "AVM BABU KARIMBIL KAMALESH",
-      "name": "2223 7419",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "FLT LT ARJUNAN P",
-      "name": "2229 2007",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "25/1(OLD 12), 3RD MAIN ROAD, MC NAGAR,  98413 56526 NO. 1/2B, IST CROSS, 4TH MAIN ROAD, CHITLAPAKKAM, CHENNAI 600 064 IOB COLONY, SELAIYUR, CHENNAI 600 073",
-      "phones": [],
-      "emails": [
-        "kaykaybabu@hotmail.com"
-      ]
-    },
-    {
-      "rank": "GP CAPT BABUSWAMY RAMADAS BABU",
-      "name": "9840468353",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "",
-      "phones": [],
-      "emails": []
-    },
-    {
-      "rank": "GP CAPT ARTHUR RAJENDRAN JEYAKUMAR",
-      "name": "9444675640",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "FLAT NO.5, KANDHAN GARDENS, 68, DEVARAJ NAGAR, MADAMBAKKAM 52, PONNIAMMAN KOIL STREET, KOTTUR, CHENNAI 600 126 CHENNAI-600085",
-      "phones": [
-        "48509048"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "WG CDR ARUL CHAMY C",
-      "name": "48650746 brbapu16@gmail.com",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "186, 8 TH CROSS STREET,",
-      "phones": [
-        "9020580028"
-      ],
-      "emails": []
-    },
-    {
-      "rank": "WG CDR BALACHANDRAN R",
-      "name": "2490 1922",
-      "service": "",
-      "serviceType": "Airforce",
-      "address": "PARVATHY NAGAR, NEW NO.6 (OLD 71), 3RD MAIN ROAD,  98410 48839 MADHAMBAKKAM, CHENNAI 600126 GANDHI NAGAR, ADYAR, CHENNAI 600 020.",
-      "phones": [
-        "9447650746"
-      ],
-      "emails": [
-        "arulchamy.1961@gmail.com",
         "ramayabalachandran@hotmail.com"
       ]
     }
