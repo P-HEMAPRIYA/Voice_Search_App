@@ -69,17 +69,24 @@ function filterList(q = null) {
   if (words.length >= 2) {
     // Parse ServiceType (first word) and name (remaining words)
     const serviceType = words[0];
-    const nameParts = words.slice(1).join(" ");
-    const normalizedNameQuery = normalizeString(nameParts);
+    const nameParts = words.slice(1);
     
     filtered = veterans.filter(v => {
       const matchesServiceType = v.serviceType && 
         v.serviceType.toLowerCase().includes(serviceType);
-      // Compare names without spaces to handle "RAVISHANKAR" vs "Ravi Shankar"
-      const matchesName = v.name && 
-        normalizeString(v.name).includes(normalizedNameQuery);
       
-      return matchesServiceType && matchesName;
+      if (!matchesServiceType) return false;
+      
+      // Normalize the veteran's name for comparison
+      const normalizedVeteranName = normalizeString(v.name);
+      
+      // Check if ALL name parts are present in the veteran's name
+      // This handles both "Ravi Shankar" -> "RAVISHANKAR" and partial matches
+      const allPartsMatch = nameParts.every(part => 
+        normalizedVeteranName.includes(normalizeString(part))
+      );
+      
+      return allPartsMatch;
     });
   } else {
     // Fallback: search in all fields if only one word provided
@@ -96,7 +103,6 @@ function filterList(q = null) {
   
   renderList(filtered);
 }
-
 function startVoice() {
   if (!dataLoaded) {
     alert("Please wait for data to load...");
